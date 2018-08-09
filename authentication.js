@@ -5,7 +5,7 @@ var OnshapeStrategy = require('passport-onshape').Strategy;
 
 var oauthClientId;
 var oauthClientSecret;
-var callbackUrl = "https://still-springs-45157.herokuapp.com/oAuthRedirect";
+var callbackUrl = "https://solutio.serveo.net/oAuthRedirect";
 var oauthUrl = 'https://oauth.onshape.com';
 var apiUrl = 'https://cad.onshape.com';
 
