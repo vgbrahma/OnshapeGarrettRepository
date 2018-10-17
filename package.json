@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://still-springs-45157.herokuapp.com/"
+    "url": "https://localhost:8000/"
   },
   "keywords": [
     "node",
